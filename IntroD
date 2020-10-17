@@ -1,2 +1,12 @@
 Hello worldd
 this is mmeee
+<Resource>
+<ID>AuditEventLogger</ID>
+<ResourceName>Novell.Zenworks.Audit.resources.AuditEventLogger</ResourceName>
+<AssemblyPath>bin\AuditEventLogger.dll</AssemblyPath>
+<PropertyBaseName>AuditEventLogger</PropertyBaseName>
+</Resource>
+<Resource>
+    <ID>AndroidEnterprise</ID>
+    <PropertyBaseName>AndroidEnterprise</PropertyBaseName>
+</Resource>
